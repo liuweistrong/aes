@@ -2,7 +2,7 @@
 //
 // aes.v
 // --------
-// Top level wrapper for the AES block cipher core.
+// Top level wrapper£¨·â×°£© for the AES block cipher£¨ÃÜÂë£© core.
 //
 //
 // Author: Joachim Strombergson
